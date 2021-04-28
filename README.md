@@ -1,2 +1,2 @@
 # project-11
-To make a calculator in Proteus software
+Arduino program to make a calculator in Proteus software
